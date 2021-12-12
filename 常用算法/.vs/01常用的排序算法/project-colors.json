@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "08f5c605-1b96-4eb0-9d2c-f16c43bd7f19": {
+      "ProjectGuid": "08f5c605-1b96-4eb0-9d2c-f16c43bd7f19",
+      "DisplayName": "常用算法",
+      "ColorIndex": 0
+    },
+    "e4297ce2-3ca7-461d-a1c5-f79be3bbf642": {
+      "ProjectGuid": "e4297ce2-3ca7-461d-a1c5-f79be3bbf642",
+      "DisplayName": "常用拷贝和替换算法",
+      "ColorIndex": 1
+    },
+    "af7a4a82-6be0-4934-bcb1-8b17ea18d213": {
+      "ProjectGuid": "af7a4a82-6be0-4934-bcb1-8b17ea18d213",
+      "DisplayName": "stl综合项目",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

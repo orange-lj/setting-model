@@ -1,0 +1,3 @@
+﻿  stl综合.cpp
+D:\setmode_code\常用算法\stl综合项目\stl综合.cpp(66,44): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  stl综合项目.vcxproj -> D:\setmode_code\常用算法\x64\Debug\stl综合项目.exe
