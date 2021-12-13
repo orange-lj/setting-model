@@ -1,0 +1,3 @@
+﻿  迪米特法则.cpp
+D:\setmode_code\开闭原则\迪米特法则\迪米特法则.cpp(88): warning C4715: “Mediator::findMyBuilding”: 不是所有的控件路径都返回值
+  迪米特法则.vcxproj -> D:\setmode_code\开闭原则\x64\Debug\迪米特法则.exe
