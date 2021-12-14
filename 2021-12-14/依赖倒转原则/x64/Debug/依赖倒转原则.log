@@ -1,0 +1,4 @@
+﻿  依赖倒转原则.cpp
+D:\setmode_code\2021-12-14\依赖倒转原则\依赖倒转原则.cpp(28,2): error C3861: “doSaveBussiness”: 找不到标识符
+D:\setmode_code\2021-12-14\依赖倒转原则\依赖倒转原则.cpp(29,2): error C3861: “doPayBussiness”: 找不到标识符
+D:\setmode_code\2021-12-14\依赖倒转原则\依赖倒转原则.cpp(30,2): error C3861: “doTranceBussiness”: 找不到标识符

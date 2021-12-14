@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4ad8783e-eee8-49c3-838b-387bc2a7ebef": {
+      "ProjectGuid": "4ad8783e-eee8-49c3-838b-387bc2a7ebef",
+      "DisplayName": "依赖倒转原则",
+      "ColorIndex": 0
+    },
+    "8b9b4907-16e1-4799-91a9-dc75b742b43f": {
+      "ProjectGuid": "8b9b4907-16e1-4799-91a9-dc75b742b43f",
+      "DisplayName": "简单工厂模式",
+      "ColorIndex": 1
+    },
+    "3f2b5e43-4430-4678-84d5-0e707ed78ccd": {
+      "ProjectGuid": "3f2b5e43-4430-4678-84d5-0e707ed78ccd",
+      "DisplayName": "工厂方法模式",
+      "ColorIndex": 2
+    },
+    "3d7a1a7d-72dc-4a60-b2eb-302d2fd97979": {
+      "ProjectGuid": "3d7a1a7d-72dc-4a60-b2eb-302d2fd97979",
+      "DisplayName": "抽象工厂",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
