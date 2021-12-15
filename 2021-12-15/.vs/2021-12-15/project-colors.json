@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c08d5e22-d2d2-40a1-8fe0-e23062cfda58": {
+      "ProjectGuid": "c08d5e22-d2d2-40a1-8fe0-e23062cfda58",
+      "DisplayName": "单例模式",
+      "ColorIndex": 0
+    },
+    "5635a37c-395b-4530-84cb-26e830e64ec3": {
+      "ProjectGuid": "5635a37c-395b-4530-84cb-26e830e64ec3",
+      "DisplayName": "代理模式",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
