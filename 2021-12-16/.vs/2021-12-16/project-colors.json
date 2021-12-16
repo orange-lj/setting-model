@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "70c5c5c6-af63-4525-b900-d7a57ac2b337": {
+      "ProjectGuid": "70c5c5c6-af63-4525-b900-d7a57ac2b337",
+      "DisplayName": "外观模式",
+      "ColorIndex": 0
+    },
+    "8916ebd0-a532-4ae5-abb6-0f4e70b51708": {
+      "ProjectGuid": "8916ebd0-a532-4ae5-abb6-0f4e70b51708",
+      "DisplayName": "适配器模式",
+      "ColorIndex": 1
+    },
+    "8d446f14-5b98-4b90-9613-33f2b44ab6bf": {
+      "ProjectGuid": "8d446f14-5b98-4b90-9613-33f2b44ab6bf",
+      "DisplayName": "模板方法模式",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
