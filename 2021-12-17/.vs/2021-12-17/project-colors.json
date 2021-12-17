@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d07e8a1d-3a88-4197-95f2-7555f7e3549f": {
+      "ProjectGuid": "d07e8a1d-3a88-4197-95f2-7555f7e3549f",
+      "DisplayName": "策略模式",
+      "ColorIndex": 0
+    },
+    "b2aaac03-43af-48ba-b4f3-3bf75fadbcda": {
+      "ProjectGuid": "b2aaac03-43af-48ba-b4f3-3bf75fadbcda",
+      "DisplayName": "命令模式",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
