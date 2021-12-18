@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e4729efc-e2a5-4ff1-89c1-93989c039570": {
+      "ProjectGuid": "e4729efc-e2a5-4ff1-89c1-93989c039570",
+      "DisplayName": "观察者模式",
+      "ColorIndex": 0
+    },
+    "fef4803b-f2b6-4388-a0f2-d13c5fd8c390": {
+      "ProjectGuid": "fef4803b-f2b6-4388-a0f2-d13c5fd8c390",
+      "DisplayName": "装饰模式",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
